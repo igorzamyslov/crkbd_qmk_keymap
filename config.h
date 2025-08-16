@@ -30,7 +30,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Timings
 #define QUICK_TAP_TERM 0
 #define TAPPING_TERM 180
-#define FLOW_TAP_TERM 0
+#define FLOW_TAP_TERM 20
 #define TAP_CODE_DELAY 30  // note: needed for games to catch the key press
 
 // Mouse key speed and acceleration.
