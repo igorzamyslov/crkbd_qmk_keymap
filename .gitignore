@@ -1,1 +1,6 @@
+.idea/
+out/
+
+.DS_Store
 keymap.c
+keymap.c.bak
